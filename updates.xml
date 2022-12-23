@@ -1,0 +1,17 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="221.5921.22" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="IU-222.4345.14" />
+    <option name="LAST_TIME_CHECKED" value="1671766147715" />
+    <pluginHosts>
+      <item value="https://s3plus.sankuai.com/v1/mss_8b80ba092e4145088a62d10f25a14f36/resource/fusion/plugins.xml" />
+      <item value="https://devx.sankuai.com/plugin/intellij.xml" />
+      <item value="https://sonic.sankuai.com/repository/plugins.xml" />
+      <item value="https://idekit.sankuai.com/repository/plugins.xml" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="WHATS_NEW_SHOWN_FOR" value="222" />
+  </component>
+</application>

@@ -1,0 +1,69 @@
+<keymap version="1" name="Eclipse (macOS) copy" parent="Eclipse (Mac OS X)">
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="ChangesView.Move" />
+  <action id="ChangesView.SetDefault" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorUnSelectWord" />
+  <action id="FileChooser.NewFolder" />
+  <action id="Find">
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta h" />
+  </action>
+  <action id="FindUsages" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="GuiDesigner.ExpandSelection" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="Jdbc.OpenConsole.New" />
+  <action id="NavBar-selectHome">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta l" />
+  </action>
+  <action id="ServiceView.AddService">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="ShowSettingsAndFindUsages" />
+  <action id="ShowUsages">
+    <mouse-shortcut keystroke="shift button1" />
+  </action>
+  <action id="SmartUnSelect" />
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+</keymap>

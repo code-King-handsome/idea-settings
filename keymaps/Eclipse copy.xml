@@ -1,0 +1,25 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="EditorScrollToCenter" />
+  <action id="FileChooser.NewFolder" />
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="ShowPopupMenu">
+    <keyboard-shortcut first-keystroke="shift alt s" />
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+    <keyboard-shortcut first-keystroke="shift alt t" />
+  </action>
+  <action id="ShowUsages">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+</keymap>

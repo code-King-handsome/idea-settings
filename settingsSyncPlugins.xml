@@ -1,0 +1,234 @@
+<application>
+  <component name="SettingsSyncPlugins">
+    <option name="plugins">
+      <map>
+        <entry key="EclipseCodeFormatter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="GrepConsole">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="MavenRunHelper">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="org.jetbrains.idea.maven" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="PlantUML integration">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.alibaba.p3c.smartfox">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                  <option value="com.intellij.modules.xdebugger" />
+                  <option value="com.intellij.modules.xml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.intellij.datagen">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.jetbrains.codeWithMe">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.jetbrains.projector.libs" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.mallowigi.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.sankuai.idekit.tetris.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.modules.vcs" />
+                  <option value="com.intellij.modules.xml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.sankuai.meituan.major.thunder">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="Git4Idea" />
+                  <option value="JUnit" />
+                  <option value="com.intellij.java" />
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="org.jetbrains.idea.maven" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.sankuai.waimai.soniclint.intellij">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.sankuai.meituan.major.thunder" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.weirddev.testme">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="JUnit" />
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="dev.flikas.idea.spring.boot.assistant.plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.platform" />
+                  <option value="com.intellij.properties" />
+                  <option value="org.jetbrains.plugins.yaml" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="google-java-format">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.java" />
+                </set>
+              </option>
+              <option name="enabled" value="false" />
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="ht">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
+        <entry key="izhangzhihao.rainbow.brackets">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="leetcode-editor">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.mapstruct.intellij">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.java" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="org.scalint.idea">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>
